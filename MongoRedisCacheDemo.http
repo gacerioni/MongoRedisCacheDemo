@@ -1,0 +1,6 @@
+@MongoRedisCacheDemo_HostAddress = http://localhost:5269
+
+GET {{MongoRedisCacheDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
